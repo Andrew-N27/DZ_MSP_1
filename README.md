@@ -1,4 +1,4 @@
-# Software_Project_Management_DZ_1
+# DZ_MSP_1
 
 Курс: «Управление программными проектами»
 
